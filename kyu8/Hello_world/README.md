@@ -1,6 +1,6 @@
-# 8-kyu - Hello 1 & Hello2
+## Hello 1 & Hello2
 
-## Hello1
+### Hello1 - Description
 
 -Make a simple function called greet that returns the most-famous "hello world!".
  -Style Points:
@@ -8,7 +8,7 @@
     What is a "hello world" solution you would want to show your friends?
 
 ---
-## Hello2 
+### Hello2 - Description
 You are given a method called main, make it print the line Hello World!, (yes, that includes a new line character at the end) and don't return anything
 
 Note that for some languages, the function main is the entry point of the program.
